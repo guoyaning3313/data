@@ -1,0 +1,23 @@
+ UPDATE platform.tb_mis2_logic_server SET ls_deliver_url='http://121.199.171.152:8081/pay/',ls_gifts_url='http://121.199.171.152:8081/cdkey/',ls_game_service_url='http://121.199.171.152:8081/gmt/' WHERE ls_server_group_id=173 AND ls_code >=43040 AND ls_code<=43061;
+ UPDATE platform.tb_mis2_logic_server SET ls_deliver_url='http://8.149.141.27:8081/pay/',ls_gifts_url='http://8.149.141.27:8081/cdkey/',ls_game_service_url='http://8.149.141.27:8081/gmt/' WHERE ls_server_group_id=173 AND ls_code >=43138 AND ls_code<=43139;
+ 
+ ===================
+ UPDATE tb_mis2_logic_server SET ls_ip='115.190.104.236',ls_inner_ip='10.0.25.178' WHERE ls_server_group_id=107 AND ls_code >=2088 AND ls_code<=2090;
+ UPDATE tb_mis2_logic_server SET ls_ip='115.190.63.211',ls_inner_ip='10.0.25.186' WHERE ls_server_group_id=107 AND ls_code >=2094 AND ls_code<=2096;
+ UPDATE tb_mis2_logic_server SET ls_ip='101.126.40.254',ls_inner_ip='10.0.25.194' WHERE ls_server_group_id=107 AND ls_code >=2100 AND ls_code<=2102;
+ UPDATE tb_mis2_logic_server SET ls_ip='101.126.38.220',ls_inner_ip='10.0.25.200' WHERE ls_server_group_id=107 AND ls_code >=2106 AND ls_code<=2108;
+ UPDATE tb_mis2_logic_server SET ls_ip='180.184.72.143',ls_inner_ip='10.0.25.208' WHERE ls_server_group_id=107 AND ls_code >=2112 AND ls_code<=2114;
+ UPDATE tb_mis2_logic_server SET ls_ip='115.190.61.232',ls_inner_ip='10.0.25.214' WHERE ls_server_group_id=107 AND ls_code >=2118 AND ls_code<=2120;
+ UPDATE tb_mis2_logic_server SET ls_ip='115.190.125.66',ls_inner_ip='10.0.25.220' WHERE ls_server_group_id=107 AND ls_code >=2124 AND ls_code<=2126;
+ UPDATE tb_mis2_logic_server SET ls_ip='180.184.74.100',ls_inner_ip='10.0.25.227' WHERE ls_server_group_id=107 AND ls_code >=2130 AND ls_code<=2132;
+ UPDATE tb_mis2_logic_server SET ls_ip='101.126.46.15',ls_inner_ip='10.0.25.233' WHERE ls_server_group_id=107 AND ls_code >=2136 AND ls_code<=2138;
+ UPDATE tb_mis2_logic_server SET ls_ip='115.190.6.12',ls_inner_ip='10.0.26.67' WHERE ls_server_group_id=107 AND ls_code >=2185 AND ls_code<=2186;
+ UPDATE tb_mis2_logic_server SET ls_ip='115.190.184.164',ls_inner_ip='10.0.26.71' WHERE ls_server_group_id=107 AND ls_code >=2188 AND ls_code<=2189;
+ UPDATE tb_mis2_logic_server SET ls_ip='115.190.205.184',ls_inner_ip='10.0.26.74' WHERE ls_server_group_id=107 AND ls_code >=2191 AND ls_code<=2192;
+ UPDATE tb_mis2_logic_server SET ls_ip='115.190.204.100',ls_inner_ip='10.0.26.77' WHERE ls_server_group_id=107 AND ls_code >=2194 AND ls_code<=2195;
+ UPDATE tb_mis2_logic_server SET ls_ip='115.190.193.67',ls_inner_ip='10.0.26.80' WHERE ls_server_group_id=107 AND ls_code >=2197 AND ls_code<=2198;
+ UPDATE tb_mis2_logic_server SET ls_ip='115.191.8.148',ls_inner_ip='10.0.26.85' WHERE ls_server_group_id=107 AND ls_code >=2200 AND ls_code<=2201;
+ 
+ 
+ 
+ 
